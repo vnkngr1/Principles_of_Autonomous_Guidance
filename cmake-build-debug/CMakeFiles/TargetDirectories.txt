@@ -1,0 +1,3 @@
+/Users/ivangarsin/Downloads/Principles of Autonomous Guidance/cmake-build-debug/CMakeFiles/Principles_of_Autonomous_Guidance.dir
+/Users/ivangarsin/Downloads/Principles of Autonomous Guidance/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ivangarsin/Downloads/Principles of Autonomous Guidance/cmake-build-debug/CMakeFiles/rebuild_cache.dir
